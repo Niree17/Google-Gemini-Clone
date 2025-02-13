@@ -4,7 +4,7 @@
 This project is a **Google Gemini AI Clone** built using **HTML, CSS, and JavaScript**, integrating **Gemini API** for real-time AI-powered responses.  
 
 **Front-end**: Modern UI with HTML & CSS  
-**Back-end**: JavaScript handling API calls  
+**Back-end**: Vanilla JavaScript handling API calls(no external frameworks)
 **AI-Powered**: Uses Gemini API for responses  
 
 ---
